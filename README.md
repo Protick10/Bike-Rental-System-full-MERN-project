@@ -15,3 +15,4 @@ and then after successfully installing these modules you can run the server by "
 ***to access the admin panel :
 ********User Name: Bike Book
 ********Password : 1234
+the admin panel is being hard coded here
